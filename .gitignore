@@ -4,3 +4,5 @@ output/
 cache/
 
 .env
+.idea
+.vscode
